@@ -38,7 +38,7 @@ If you encounter any issues or have questions about the project:
 - **Create a new issue** if your question hasn’t been addressed.
 
 ## Who Maintains and Contributes to the Project
-This project is maintained by [Your Name](https://github.com/MuskanPujara). Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements.
+This project is maintained by [Muskan Pujara](https://github.com/MuskanPujara). Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements.
 
 Happy encoding and decoding!
 
